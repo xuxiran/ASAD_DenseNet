@@ -1,5 +1,5 @@
 # ASAD_DenseNet
-This project provides the implementation of the ASAD_DenseNet, with code to reproduce all the results reported in the paper. https://arxiv.org/abs/2309.07690
+This project provides the implementation of the ASAD_DenseNet, with code to reproduce all the results reported in the paper: https://arxiv.org/abs/2309.07690
 
 The '1_download_data' folder includes only the 'download_data.py' file, which is used to download the raw data. All reported results in the paper were obtained using the KUL dataset, which can be downloaded at https://zenodo.org/record/3377911. To simplify the data download process, the 'download_data.py' script is provided to help users quickly download the dataset. All data will be downloaded to the '../2_data' location, which is required for subsequent preprocessing and analysis.
 
