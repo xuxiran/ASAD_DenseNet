@@ -1,9 +1,11 @@
 # ASAD_DenseNet
 
 ------------------------20231123--------------------------------
+
 We have attempted to use an 8th order Butterworth filter, which is an IIR filter, to replace 512th order FIR filter and obtained similar results (94.3% in a 1-second decision window). The implemented code has been synchronously updated to '4_processed_data'.
 
 ------------------------20230915--------------------------------
+
 This project provides the implementation of the ASAD_DenseNet, with code to reproduce all the results reported in the paper: https://arxiv.org/abs/2309.07690
 ![image](https://github.com/xuxiran/ASAD_DenseNet/assets/48015859/5dd21b14-00a0-4194-9a57-297f39b04f37)
 
