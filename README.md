@@ -2,7 +2,7 @@
 
 ------------------------20231123--------------------------------
 
-We have attempted to use an 8th order Butterworth filter, which is an IIR filter, to replace 512th order FIR filter and obtained similar results (94.3% in a 1-second decision window). The implemented code has been synchronously updated to '4_processed_data'.
+We have attempted to use an 8th order Butterworth filter, which is an IIR filter, to replace 512th order FIR filter and obtained similar results (94.3% in a 1-second decision window). The implemented code has been synchronously updated to '3_processed'.
 
 ------------------------20230915--------------------------------
 
