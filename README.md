@@ -6,7 +6,9 @@ We have attempted to use an 8th order Butterworth filter, which is an IIR filter
 
 ------------------------20230915--------------------------------
 
-This project provides the implementation of the ASAD_DenseNet, with code to reproduce all the results reported in the paper: https://arxiv.org/abs/2309.07690
+This project provides the implementation of the ASAD_DenseNet, with code to reproduce all the results reported in the paper: 
+https://ieeexplore.ieee.org/document/10448013
+
 ![image](https://github.com/xuxiran/ASAD_DenseNet/assets/48015859/5dd21b14-00a0-4194-9a57-297f39b04f37)
 
 
