@@ -3,6 +3,9 @@
 
 This paper has been accepted by ICASSP 2024 and this is the website: https://ieeexplore.ieee.org/document/10448013
 
+![1713698136124](https://github.com/xuxiran/ASAD_DenseNet/assets/48015859/46116aa2-7f2b-4b81-a94c-76c670b1cdb7)
+
+
 ------------------------20231123--------------------------------
 
 We have attempted to use an 8th order Butterworth filter, which is an IIR filter, to replace 512th order FIR filter and obtained similar results (94.3% in a 1-second decision window). The implemented code has been synchronously updated to '3_processed'.
