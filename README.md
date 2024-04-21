@@ -3,7 +3,6 @@
 
 This paper has been accepted by ICASSP 2024 and this is the website: https://ieeexplore.ieee.org/document/10448013
 
-![1713698136124](https://github.com/xuxiran/ASAD_DenseNet/assets/48015859/46116aa2-7f2b-4b81-a94c-76c670b1cdb7)
 
 
 ------------------------20231123--------------------------------
