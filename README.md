@@ -1,4 +1,8 @@
 # ASAD_DenseNet
+------------------------20250324--------------------------------
+
+Add the quick start, you could use this quick_model.py to run the ASAD_DenseNet.
+
 ------------------------20240321--------------------------------
 
 This paper has been accepted by ICASSP 2024 and this is the website: https://ieeexplore.ieee.org/document/10448013
